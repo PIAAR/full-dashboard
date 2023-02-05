@@ -14,7 +14,7 @@ export { default as Line } from './Charts/Line';
 export { default as Pie } from './Charts/Pie';
 export { default as Pyramid } from './Charts/Pyramid';
 export { default as Stacked } from './Charts/Stacked';
-export { default as Trader } from './Trader/Trader';
+export { default as Trader } from './Trader';
 export { default as Card } from './Trader/Card';
 export { default as Chart } from './Trader/Chart';
 export { default as ChartFilter } from './Trader/ChartFilter';
